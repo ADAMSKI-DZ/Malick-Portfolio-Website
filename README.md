@@ -1,20 +1,29 @@
-# Malick Portfolio Website
+# Malick Portfolio Website 👩🏿‍💻
 
-> I coded this website to making my idea in website
+> I coded this website to making my idea in website 💡
 
-## its open source
+## its open source 🎁
 
-## if you want to send commit please contact me
+you can visit the website:
+[Malick Portfolio](http://malicktammal.netlify.app/)
 
-> My email
+## if you want to send commit please contact me 🛠
+
+> My email ✉️
 
 ```
-malick.tammal15@gmail.com
+    malick.tammal15@gmail.com
 ```
 
 ---
 
-> Support Us in social media
+> You can clone the website code 📁
+
+```bash
+    git clone https://github.com/ADAMSKI-DZ/Malick-Portfolio-Website
+```
+
+> Support Us in social media 📞
 
 [![facebook](https://d33wubrfki0l68.cloudfront.net/f8205b437d13ffdd648c78fad1c898574cc8f0b1/e37ed/data/facebook.png)](https://www.facebook.com/abdelmalek.tammal)
 [![youtube](https://d33wubrfki0l68.cloudfront.net/210141cb935c4f3f2f944e428d4a155dce174d5f/6951d/data/youtube.png)](https://d33wubrfki0l68.cloudfront.net/210141cb935c4f3f2f944e428d4a155dce174d5f/6951d/data/youtube.png)
