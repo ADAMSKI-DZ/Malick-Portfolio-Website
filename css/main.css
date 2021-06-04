@@ -252,14 +252,14 @@ svg .st2 {
     transition: all 0.3s cubic-bezier(0.215, 0.610, 0.355, 1);
 }
 .menu-btn.active svg g:first-child {
-    transform: rotate(
+    transform: rotate( 
 45deg
-) translateX(60px) translateY(-80px);
+ ) translateX(60px) translateY(-100px);
 }
 .menu-btn.active svg g:nth-child(2) {
-    transform: rotate(
+    transform: rotate( 
 -45deg
-) translateX(-250px) scaleX(1.4) translateY(120px);
+ ) translateX(-250px) scaleX(1.4) translateY(120px);
 }
 .menu-btn.active svg g:last-child {
     transform: translateX(-18em);
