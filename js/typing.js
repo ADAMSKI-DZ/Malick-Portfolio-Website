@@ -10,13 +10,13 @@ $(function () {
 
     stringsElement: null,
     // typing speed
-    typeSpeed: 30,
+    typeSpeed: 50,
     // time before typing starts
-    startDelay: 1500,
+    startDelay: 2000,
     // backspacing speed
-    backSpeed: 20,
+    backSpeed: 40,
     // time before backspacing
-    backDelay: 1000,
+    backDelay: 1500,
     // loop
     loop: true,
     // false = infinite
