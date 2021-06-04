@@ -222,6 +222,7 @@ svg .st2 {
     width: 4rem;
     height: 4rem;
     z-index: 6;
+    padding-left: 4px;
 }
 .menu-btn {
     width: 4rem;
@@ -701,7 +702,6 @@ h1.section-title[data-scroll="in"] {
     grid-gap: 1em;
     align-items: center;
     justify-content: center;
-    padding: 2em;
 }
 .projects.active {
     opacity: 1;
