@@ -256,5 +256,13 @@
         padding: 0.5em;
         font-size: 0.8em;
     }
+    .more-info {
+        bottom: 1em;
+        right: 1em;
+    }
+    button.send {
+        font-size: 0.8em;
+        padding: 0.5em 1.4em;
+    }
 }
 /*?--------*/
