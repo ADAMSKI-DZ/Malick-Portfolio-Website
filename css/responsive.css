@@ -42,6 +42,12 @@
     .contact-container {
         width: 70%;
     }
+    .websites .project-box {
+        width: 100%;
+    }
+    .designs .project-box {
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 768px) {
     .title h1 {
@@ -178,9 +184,20 @@
     h2.title {
         top: 10%;
     }
-    .project-box:nth-child(2) {
-        margin-top: 1em;
-        margin-bottom: 1em;
+    .apps .project-box:nth-child(2) {
+        margin-top: -5em;
+        margin-bottom: 2em;
+    }
+    .websites .project-box:nth-child(2) {
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+    .designs .project-box:nth-child(2) {
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+    .all {
+        top: 55%;
     }
 }
 @media only screen and (max-width: 400px) {
