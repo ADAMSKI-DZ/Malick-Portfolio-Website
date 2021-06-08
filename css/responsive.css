@@ -177,6 +177,10 @@
     h2.title {
         top: 10%;
     }
+    .project-box:nth-child(2) {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
 }
 @media only screen and (max-width: 400px) {
     .desc-text {
