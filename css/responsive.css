@@ -252,5 +252,9 @@
     .contact-container h2 {
         font-size: 1.7em;
     }
+    .contact-container {
+        width: 65%;
+        height: 65%;
+    }
 }
 /*?--------*/
