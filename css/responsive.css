@@ -264,5 +264,8 @@
         font-size: 0.8em;
         padding: 0.5em 1.4em;
     }
+    .title h1 {
+        font-size: 1.8rem;
+    }
 }
 /*?--------*/
