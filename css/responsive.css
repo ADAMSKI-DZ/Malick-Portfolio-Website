@@ -117,6 +117,7 @@
     .apps.projects {
         height: 53rem;
         top: 15rem;
+        padding: 0;
     }
     nav.list li {
         font-size: 0.8em;
