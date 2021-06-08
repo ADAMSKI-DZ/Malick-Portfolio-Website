@@ -252,5 +252,9 @@
     .contact-container h2 {
         font-size: 1.7em;
     }
+    .more-info a {
+        padding: 0.5em;
+        font-size: 0.8em;
+    }
 }
 /*?--------*/
