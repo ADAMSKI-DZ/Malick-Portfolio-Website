@@ -24,7 +24,7 @@ nav.navbar {
 }
 nav.navbar a {
   color: var(--Dark-Blue);
-  background-color: var(--Yallow);
+  background-color: var(--Yellow);
   padding: 0.5rem 1rem 0.5rem 1rem;
   border-radius: 1rem;
   font-size: 0.9rem;
@@ -32,9 +32,9 @@ nav.navbar a {
   transition: 200ms ease-in-out;
 }
 nav.navbar a:hover {
-  border-color: var(--Yallow);
+  border-color: var(--Yellow);
   background-color: transparent;
-  color: var(--Yallow);
+  color: var(--Yellow);
 }
 .logo {
   width: 5em;
@@ -69,7 +69,7 @@ main.container.active .middel-content {
   margin-left: 1em;
 }
 .column-left h1 span {
-  color: var(--Yallow);
+  color: var(--Yellow);
 }
 .column-left p {
   color: var(--White);
@@ -141,7 +141,7 @@ footer.footer a:hover {
   justify-content: center;
   border-radius: 1rem 0rem 0 1rem;
   overflow: hidden;
-  background: var(--Yallow);
+  background: var(--Yellow);
 }
 .col-1 img {
   position: absolute;
@@ -208,7 +208,7 @@ footer.footer a:hover {
 .col-2 form .name input:focus,
 .col-2 form .email input:valid,
 .col-2 form .email input:focus {
-  border-color: var(--Yallow);
+  border-color: var(--Yellow);
 }
 .col-2 form .name input:valid ~ span,
 .col-2 form .name input:focus ~ span,
@@ -217,7 +217,7 @@ footer.footer a:hover {
   top: -1.5rem;
   left: 0;
   font-size: 0.7rem;
-  color: var(--Yallow);
+  color: var(--Yellow);
 }
 .col-2 form .email {
   display: flex;
@@ -240,7 +240,7 @@ footer.footer a:hover {
 }
 .message:valid,
 .message:focus {
-  border-color: var(--Yallow);
+  border-color: var(--Yellow);
 }
 .message::placeholder {
   color: var(--White);
@@ -250,18 +250,19 @@ footer.footer a:hover {
   width: 100%;
   height: 3rem;
   min-height: 2rem;
-  background-color: var(--Yallow);
+  background-color: var(--Yellow);
   border-radius: 0.5rem;
   margin-top: 1.5rem;
   cursor: pointer;
-  border: 5px solid var(--Yallow);
+  border: 5px solid var(--Yellow);
   transition: 200ms ease-in-out;
 }
 .send-btn:hover {
   background: transparent;
-  color: var(--Yallow);
+  color: var(--Yellow);
 }
 
+/*--- Responsive codes ---*/
 @media only screen and (max-width: 768px) {
   main.container {
     width: 70vw;
