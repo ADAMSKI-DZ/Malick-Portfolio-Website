@@ -1,29 +1,35 @@
-/*
-!to reset all the default value of HTML
-!do not change any thing
-*/
-
-
 *,
 *::after,
 *::before {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-html {
-    scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 body {
-    font-family: 'CodeNext-ExtraBold';
-    background: #000;
+  font-size: 0.8rem;
+  font-family: "CodeNext", sans-serif;
+  color: var(--white);
+  background-color: var(--Dark-Blue);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
+  color: var(--Yallow);
 }
-li {
-    list-style: none;
+p {
+  color: var(--White);
 }
-button {
-    outline: none;
+input {
+  outline: none;
+  border: none;
+  font-family: "CodeNext", sans-serif;
+}
+textarea {
+  font-family: "CodeNext", sans-serif;
+  outline: none;
+  border: none;
 }

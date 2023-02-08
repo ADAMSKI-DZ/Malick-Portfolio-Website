@@ -1,7 +1,6 @@
 :root {
-    --main-color: #EE5A24;
-    --text-color: #FFFFFF;
-    --second-color: #D63621;
-    --second-color-dark: #831708;
-    --pure-black: #000000;
+  --White: #ffffff;
+  --Dark-Blue: #1e272e;
+  --More-Dark-Blue: #181c20;
+  --Yallow: #ffc727;
 }
