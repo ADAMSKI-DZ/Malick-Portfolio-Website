@@ -1,4 +1,6 @@
 @font-face {
-    font-family: 'CodeNext';
-    src: url(../font/CodeNext-ExtraBold.ttf);
+  font-family: "CodeNext";
+  src: local("CodeNext"),
+    url("../font/CodeNext-ExtraBold.ttf") format("truetype");
+  font-display: swap;
 }
