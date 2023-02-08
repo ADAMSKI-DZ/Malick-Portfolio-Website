@@ -37,6 +37,8 @@ nav.navbar a:hover {
   color: var(--Yellow);
 }
 img.logo {
+  width: 4rem;
+  height: auto;
   cursor: pointer;
   transition: 200ms ease-in-out;
 }
