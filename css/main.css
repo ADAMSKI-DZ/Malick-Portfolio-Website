@@ -22,7 +22,7 @@ nav.navbar {
   align-items: center;
   justify-content: space-between;
 }
-nav.navbar a {
+nav.navbar a.contact-btn {
   color: var(--Dark-Blue);
   background-color: var(--Yellow);
   padding: 0.5rem 1rem 0.5rem 1rem;

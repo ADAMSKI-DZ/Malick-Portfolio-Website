@@ -20,7 +20,9 @@
   <body>
     <main class="container">
       <nav class="navbar">
-        <img class="logo" src="./data/Logo.png" alt="Logo" />
+        <a href="https://malicktammal.netlify.app/">
+          <img class="logo" src="./data/Logo.png" alt="Logo" />
+        </a>
         <a class="contact-btn" href="#">Contact</a>
       </nav>
       <section class="middel-content">
@@ -1819,10 +1821,20 @@
       </section>
       <footer class="footer">
         <div class="left-link">
-          <p>The creator : <a href="#">Abdel Malek Tammal</a></p>
+          <p>
+            The creator :
+            <a href="https://www.instagram.com/malick_tammal/" target="_blank"
+              >Abdel Malek Tammal</a
+            >
+          </p>
         </div>
         <div class="right-link">
-          <p>All rights reserved : <a href="#">Malick Portfolio</a></p>
+          <p>
+            All rights reserved :
+            <a href="https://malicktammal.netlify.app/" target="_blank"
+              >Malick Portfolio</a
+            >
+          </p>
         </div>
       </footer>
     </main>
@@ -1836,7 +1848,12 @@
         <p>malick.tammal15@gmail.com</p>
       </div>
       <div class="col-2">
-        <form name="contact" method="POST" data-netlify="true">
+        <form
+          name="contact"
+          action="./form-submission.html"
+          method="POST"
+          data-netlify="true"
+        >
           <div class="name">
             <input type="text" name="name" aria-label="name" required />
             <span>Enter your name *</span>
