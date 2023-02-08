@@ -36,8 +36,9 @@ nav.navbar a:hover {
   background-color: transparent;
   color: var(--Yellow);
 }
-.logo {
+img.logo {
   width: 5em;
+  height: auto;
   cursor: pointer;
   transition: 200ms ease-in-out;
 }
